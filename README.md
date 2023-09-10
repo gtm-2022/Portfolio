@@ -34,7 +34,8 @@ git clone https://github.com/YourUsername/portfolio.git
 
 ## Contact
 
-If you have any questions or would like to connect, you can reach me at (mailto:gautam848113@gmail.com).
+If you have any questions or would like to connect, you can reach me at 
+gautam848113@gmail.com(mailto:gautam848113@gmail.com).
 
 ## License
 
