@@ -1,6 +1,6 @@
 # My Portfolio
 
-Welcome to my portfolio repository! This is where I host the code for my personal portfolio website.
+Welcome to my portfolio repository! 
 
 ## Overview
 
